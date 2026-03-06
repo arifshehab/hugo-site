@@ -36,7 +36,7 @@ jobs:
           extended: true # Crucial for Toha's SCSS
 
       - name: Build
-        run: hugo --minify --baseURL "https://arifshehab.github.io/hugo-site/"
+        run: hugo --minify --baseURL "https://arifshehab.com/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
