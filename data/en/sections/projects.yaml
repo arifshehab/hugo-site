@@ -23,7 +23,7 @@ projects:
   logo: /images/sections/projects/dgs-icon.png
   image: /images/sections/projects/elections.png
   role: Product Manager
-  timeline: "Jun 2024 - ApMayril 2025"
+  timeline: "Jun 2024 - May 2025"
   url: "https://elections.data.gov.sg/en"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Our team built the official government election data visualisation, from research to prototyping to productionisation. Adopted by 7 major media agencies during GE2025, reaching 1.5M+ viewers.
   tags: ["work"]
