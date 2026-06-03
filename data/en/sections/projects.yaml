@@ -25,7 +25,7 @@ projects:
   role: Product Manager
   timeline: "Jun 2024 - May 2025"
   url: "https://elections.data.gov.sg/en"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Our team built the official government election data visualisation, from research to prototyping to productionisation. Adopted by 7 major media agencies during GE2025, reaching 1.5M+ viewers.
+  summary: Our team built the official government election data visualisation, from user stories to prototyping to production. Adopted by 7 major media agencies during GE2025, reaching 1.5M+ viewers.
   tags: ["work"]
 
 - name: COP30 Singapore Pavilion
@@ -34,10 +34,10 @@ projects:
   role: Assistant Project Director
   timeline: "Nov 2025"
   url: "https://www.cop-pavilion.gov.sg/cop-home"
-  summary: Organised the Singapore Pavilion at UNFCCC COP30, advancing Singapore’s international positioning on climate and sustainability with governments, corporates, and multilateral stakeholders.
+  summary: Organised the Singapore Pavilion at UNFCCC COP30 in Belem, Brazil. Advanced Singapore’s international positioning on climate and sustainability with governments, corporates, and multilateral stakeholders.
   tags: ["work"]
 
-- name: archer the bug
+- name: archer-the-bug
   image: /images/sections/projects/archer.jpg
   role: Hobby
   repo: https://github.com/

@@ -24,7 +24,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: ""
+    title: "arif shehabuddin"
     weight: 1
 # default language for the content
 defaultContentLanguage: en
