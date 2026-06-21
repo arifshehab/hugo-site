@@ -37,6 +37,13 @@ projects:
   summary: Organised the Singapore Pavilion at UNFCCC COP30 in Belem, Brazil. Advanced Singapore’s international positioning on climate and sustainability with governments, corporates, and multilateral stakeholders.
   tags: ["work"]
 
+- name: prcnt
+  image: /images/sections/projects/tariff.webp
+  role: Hobby
+  url: "https://prcnt.vercel.app/"
+  summary: Real-time visualisation of U.S. tariff actions and rates, by country.
+  tags: ["hobby"]
+
 - name: archer-the-bug
   image: /images/sections/projects/archer.jpg
   role: Hobby
@@ -44,3 +51,4 @@ projects:
   #url: ""
   summary: Database of pet-friendly cafes
   tags: ["hobby"]
+
